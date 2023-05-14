@@ -196,8 +196,6 @@ def load_maze(maze_file):
         maze.append(list(line))
     return maze
 
-maze = load_maze('dataset/6.txt')
-
 
 
 def main():
